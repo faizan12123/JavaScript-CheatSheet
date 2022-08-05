@@ -1,3 +1,3 @@
 # JavaScript Cheat Sheet
 
-To allow developers to access javascript syntax all in one place!
+The purpose of this repository is to allow developers to access some of the most common Javascript syntax/commands all in one place!
